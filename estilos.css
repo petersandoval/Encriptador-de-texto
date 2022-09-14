@@ -1,0 +1,38 @@
+.text-input{
+    background-color: rgb(248, 233, 233);
+    margin-top:1px;
+    
+
+}
+
+input::placeholder {
+    color: red;
+    font-size: 1.2em;
+    font-style: italic;
+    min-width: 50%;
+}
+#btn-encriptar{
+border-radius: 13%;
+background-color: rgb(233, 18, 29);
+
+}
+
+#btn-desencriptar {
+    border-radius: 13%;
+    background-color: rgb(206, 205, 224);
+}
+
+img{
+    border-radius: 50%;
+    background-attachment:;
+}
+
+.fondo {
+
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    height: 100vh;
+
+}
